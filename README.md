@@ -44,8 +44,16 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanchanaseepana&show_icons=true&theme=tokyonight&hide_border=true" alt="Kanchana's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchanaseepana&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanchanaseepana&theme=tokyonight" alt="Profile details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanchanaseepana&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanchanaseepana&theme=tokyonight" alt="Repos per language" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanchanaseepana&theme=tokyonight&hide_border=true" alt="Contribution streak" height="165"/>
 </p>
 
 ## 📚 Publications
